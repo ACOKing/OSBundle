@@ -1,0 +1,27 @@
+h1{
+  font-family: Segoe UI, Comic Sans MS;
+}
+.header{
+  border-radius: 5px;
+  background-color: red;
+}
+.menu li{
+   background-color: blue;
+    list-style-type:none;
+  width:100px;
+    display: inline-block;
+    border-radius: 5px;
+    
+}
+.menu-list{
+    border-radius: 10px;
+}
+
+.menu-list li{
+  font-family: Segoe UI Light, Comic Sans MS;
+    list-style-type:none;
+    background-color: green;
+    display:block;
+    
+    
+}
